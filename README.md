@@ -1,13 +1,16 @@
-## 👋 About Me
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="60" />   About Me 👋
 
-Hi, I’m **Paarth Jaiswal**  
+
+## Hi, I’m  Paarth Jaiswal 
+
+
 🎓 Chandigarh University, B.E. CSE, Class of 2026
 
 While academics might not be my strongest suit, I’m passionate about hands-on tech and building cool stuff.
 
 ---
+### <span style="vertical-align: middle; font-weight: bold; font-size: 1.2em;">⚡ Skills</span> <img src="https://media.tenor.com/2vzT-8oPXl8AAAAi/tkthao219-bubududu.gif" width="60" alt="Shiroko Skill Issue" style="vertical-align: middle;"/>
 
-### ⚡ Skills
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)
@@ -18,16 +21,14 @@ While academics might not be my strongest suit, I’m passionate about hands-on 
 - ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff) *(riced setup, see my [repo](https://github.com/paarthjaiswal))*
 
 ---
-
-### 🎮 Interests
+### 🎮 Interests  <img src="https://media.tenor.com/ASn97P78H1MAAAAi/peach-cat-goma.gif" width="60" alt="party"/>
 
 - E-sports fan: Valorant, CS:GO
 - Gamer: Valorant, The Last of Us II, Cyberpunk 2077, etc.
 - Love learning how things work, reading, and watching explainer videos
 
 ---
-
-### 📫 Connect With Me
+### 📫 Connect With Me     <img src ="https://media.tenor.com/xFNgUArQzdoAAAAi/huhaa.gif" width="60" />
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/paarthjaiswal)
 [![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=fff&style=flat-square)](https://x.com/Paarthjaiswalx)
