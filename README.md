@@ -5,6 +5,10 @@ Hi, I’m **Paarth Jaiswal**
 
 While academics might not be my strongest suit, I’m passionate about hands-on tech and building cool stuff.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" alt="Graffiti Animation" width="400"/>
+</p>
+
 ---
 
 ### ⚡ Skills
